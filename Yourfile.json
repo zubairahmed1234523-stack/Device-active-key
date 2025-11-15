@@ -1,9 +1,9 @@
 [
     {
-        "device_id": "a1e0ea9c1998f791",
-        "key": "brandzubi",
+        "device_id": "device 123",
+        "key": "key123",
         "expirydate": "5-01-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "176140cc6d9b913e",
@@ -18,8 +18,8 @@
         "Allowoffline": false
     },
     {
-        "device_id": "??",
-        "key": "brandzubi",
+        "device_id": "a1e0ea9c1998f791",
+        "key": "brandzubix",
         "expirydate": "5-01-2026",
         "Allowoffline": false
 
