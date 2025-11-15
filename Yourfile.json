@@ -1,20 +1,27 @@
 [
     {
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
+        "device_id": "a1e0ea9c1998f791",
+        "key": "brandzubi",
+        "expirydate": "5-01-2026",
+        "Allowoffline": false
     },
     {
         "device_id": "176140cc6d9b913e",
         "key": "brandzubi",
-        "expirydate": "09-01-2026",
+        "expirydate": "05-01-2026",
         "Allowoffline": false
     },
     {
-        "device_id": "b81c8d2eb31e657e",
+        "device_id": "??",
         "key": "zubix",
         "expirydate": "16-11-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "??",
+        "key": "brandzubi",
+        "expirydate": "5-01-2026",
+        "Allowoffline": false
+
+    }    
 ]
